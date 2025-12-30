@@ -1,0 +1,13 @@
+# Vector databases (RAG artifacts)
+vector_db/
+**/*.bin
+**/*.sqlite3
+**/*.faiss
+**/*.index
+
+# Chroma specific
+chroma/
+chromadb/
+
+# Embedding caches
+embeddings/
